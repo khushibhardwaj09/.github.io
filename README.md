@@ -1,9 +1,9 @@
-## Khushi Bhardwaj
+# Khushi Bhardwaj
 
 I like building impactful things.
 
 ### About me:
-- Grew up in Singapore 
+- Grew up in Queenstown, Singapore 
 - CS undergrad @ Georgia Tech (graduating May 2025)
 
 ### Things I've contributed to:
